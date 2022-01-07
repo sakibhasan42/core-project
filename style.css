@@ -18,21 +18,118 @@ section{
 .half-width{
     width: 50%;
     padding-left: 3%;
+    
 
 }
 .half-width img{
     width: 100%;
+
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-color: crimson;
     padding: 10px 40px;
     color: white;
     font-weight: 500;
     border-radius: 5px;
 }
+.flexible-container{
+    display: flex;
+}
+
+.orange-coulur{
+    color: black;
+    font-size: x-large;
+}
+.order-item{
+    width: 25%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    
+    
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gray;
 
 
+}
+h2{
+    font-size: 40px;
+    color-adjust:gray
+    ;
+}
+#web-dep-one{
+    color-adjust: rgb(248, 156, 156);
+    
+}
+#web-dep-two{
+    background-color: rgb(145, 245, 170);
+}
+#web-dev-three{
+    background-color: rgb(148, 216, 243);
+}
+.my-img{
+    size: 10%;
+}
+.pro-dev img{
+    width: 150px;
+}
+.my-img img{
+    width: 70%;
+
+}
+.my-img-2 {
+    margin-top: 100px;
+    padding-left: 5%;
+}
+.can-do{
+    color: cadetblue;
+    text-align: center;
+}
+.my-gm img{
+    width: 70%;
+}
+.hide-me{
+    padding: 5%;
+}
+.can-do{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 300%;
+    padding-bottom: 3%;
+    padding-top: 1%;
+    
+    font-size: 60;
+}
+.mother{
+    font-family: inherit;
+
+}
+.tear-one{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.main-1{
+    width: 400px;
+    padding-left: 5%;
+
+}
+.justify{
+    text-align: right;
+    
+}
+.my-img-last{
+    justify-items: center;
+}
+.my-img-100{
+    display: flex;
+}
+footer h1{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
 
 
 
