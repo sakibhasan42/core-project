@@ -4,10 +4,10 @@ font-family: 'Poppins', sans-serif;
 }
 h1{
     font-size: 50px;
-    color: orange;
+    color: rgb(253, 189, 92);
 }
 .red-color{
-    color: grey;
+    color: rgb(20, 20, 20);
 }
 .green-color{
     color: rgb(119, 81, 42);
@@ -94,8 +94,8 @@ h2{
 }
 .can-do{
     text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 300%;
+    font-family: initial;
+    font-size: 200%;
     padding-bottom: 3%;
     padding-top: 1%;
     
@@ -129,6 +129,18 @@ footer h1{
 }
 footer p{
     text-align: center;
+    color: white;
+}
+footer h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+footer{
+    background-color: rgb(9, 10, 56);
+}
+.ninja{
+    width: 80%;
 }
 
 
